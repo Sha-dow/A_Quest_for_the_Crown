@@ -1,12 +1,12 @@
-//###################################################################
-//                                                                 ##
-// Hannu Ranta				                                       ##
-//                                                                 ##
-// Kartta-rajapinnan otsikkotiedosto, joka m‰‰rittelee             ##
-// kartan oikeellisuuden tarkistamiseen ja kartan alustamiseen     ##
-// liittyv‰t toiminnot                                             ##
-//                                                                 ##
-// ##################################################################
+//#################################################################
+//                                                                 
+// Hannu Ranta				                                       
+//                                                                 
+// Kartta-rajapinnan otsikkotiedosto, joka m‰‰rittelee             
+// kartan oikeellisuuden tarkistamiseen ja kartan alustamiseen     
+// liittyv‰t toiminnot                                             
+//                                                                 
+// ################################################################
 
 
 #ifndef KARTTA_HH

@@ -1,10 +1,10 @@
 //###################################################################
-//                                                                 ##
-// Hannu Ranta				                                       ##
-//                                                                 ##
-// Otsikkotiedosto, joka m‰‰rittelee kaikki                        ##
-// ohjelmassa k‰ytett‰v‰t tietorakenteet.                          ##
-//                                                                 ##
+//                                                                 
+// Hannu Ranta				                                       
+//                                                                 
+// Otsikkotiedosto, joka m‰‰rittelee kaikki                        
+// ohjelmassa k‰ytett‰v‰t tietorakenteet.                          
+//                                                                 
 // ##################################################################
 
 

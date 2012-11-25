@@ -1,12 +1,12 @@
-//###################################################################
-//                                                                 ##
-// Hannu Ranta				                                       ##
-//                                                                 ##
-// komentotulkki-rajapinnan otsikkotiedosto, joka m‰‰rittelee      ##
-// pelin komentojen tulkitsemiseen ja toteutukseen                 ##
-// liittyv‰t toiminnot                                             ##
-//                                                                 ##
-// ##################################################################
+//#################################################################
+//                                                                 
+// Hannu Ranta				                                       
+//                                                                 
+// komentotulkki-rajapinnan otsikkotiedosto, joka m‰‰rittelee      
+// pelin komentojen tulkitsemiseen ja toteutukseen                 
+// liittyv‰t toiminnot                                             
+//                                                                 
+// ################################################################
 
 
 #ifndef KOMENTOTULKKI_HH

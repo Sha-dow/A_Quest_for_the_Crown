@@ -1,20 +1,20 @@
-//##################################################################
-//****************************************************************##
-//                                                                ##
-//       Hannu Ranta   				                              ##
-//                                                                ##
-//                                                                ##
-//       A quest for the crown 				                      ##
-//----------------------------------------------------------------##
-// Kyseess‰ on kahden tai useamman pelaajan v‰linen vuoro-        ##
-// pohjainen strategiapeli. Peliss‰ kukin pelaaja ohjaa           ##
-// taisteluun yht‰ tai useampaa sankaria erilaisilla kartoilla.   ##
-// Jokaista sankaria ohjataan yksi kerrallaan.                    ##
-// Pelin voittaa joukkue, joka saa viety‰ Kuninkaiden             ##
-// Kruunun Camelotiin tai tuhottua kaikki vastustan sankarit.     ##
-// ---------------------------------------------------------------##
-// ***************************************************************##
-// #################################################################
+//###############################################################
+//***************************************************************
+//                                                               
+//       Hannu Ranta   				                             
+//                                                               
+//                                                               
+//       A quest for the crown 				                     
+//---------------------------------------------------------------
+// Kyseess‰ on kahden tai useamman pelaajan v‰linen vuoro-       
+// pohjainen strategiapeli. Peliss‰ kukin pelaaja ohjaa          
+// taisteluun yht‰ tai useampaa sankaria erilaisilla kartoilla.  
+// Jokaista sankaria ohjataan yksi kerrallaan.                   
+// Pelin voittaa joukkue, joka saa viety‰ Kuninkaiden            
+// Kruunun Camelotiin tai tuhottua kaikki vastustan sankarit.    
+// --------------------------------------------------------------
+// **************************************************************
+// ##############################################################
 
 // M‰‰ritell‰‰n include-directiivit
 #include <cstdlib>

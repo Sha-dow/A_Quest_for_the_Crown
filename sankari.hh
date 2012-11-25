@@ -1,9 +1,9 @@
 //##############################################
-//                                            ##
-//  Hannu Ranta 			                  ##
-//                                            ##
-//  Sankari-luokan otsikkotiedosto            ##
-//                                            ##
+//                                            
+//  Hannu Ranta 			                  
+//                                            
+//  Sankari-luokan otsikkotiedosto            
+//                                            
 //##############################################
 
 #ifndef SANKARI_HH

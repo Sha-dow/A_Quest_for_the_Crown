@@ -1,9 +1,9 @@
 //###############################################
-//                                             ##
-//  Hannu Ranta 			                   ##
-//                                             ##
-//  Sankari-luokan toteutus                    ##
-//                                             ##  
+//                                             
+//  Hannu Ranta 			                   
+//                                             
+//  Sankari-luokan toteutus                    
+//                                              
 //###############################################
 
 #include <iostream>

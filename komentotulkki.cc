@@ -1,12 +1,12 @@
-//###############################################
-//                                             ##
-//  Hannu Ranta 							   ##
-//                                             ##
-//  komentotulkki.cc                           ##
-//  Komentotulkki-				               ##
-//  rajapinnan toteutus                        ##
-//                                             ##
-//###############################################
+//#############################################
+//                                             
+//  Hannu Ranta 							   
+//                                             
+//  komentotulkki.cc                           
+//  Komentotulkki-				               
+//  rajapinnan toteutus                        
+//                                             
+//#############################################
 
 //M‰‰ritell‰‰n include-direktiivit
 #include <iostream>
